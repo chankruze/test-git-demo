@@ -6,8 +6,6 @@ for (let index = 0; index < array.length; index++) {
   const element = array[index];
 }
 
+array.forEach((element) => {});
 
-
-array.forEach(element => {
-    
-});
+console.log("hello");
